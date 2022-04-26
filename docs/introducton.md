@@ -1,4 +1,4 @@
-<div align="center"><img src=".images/logo.png"/></div>
+<div align="center"><img src="assets/images/logo.png"/></div>
 <hr/> 
  
 [![FormsFlow WEB CI](https://github.com/AOT-Technologies/forms-flow-ai/actions/workflows/forms-flow-web-ci.yml/badge.svg)](https://github.com/AOT-Technologies/forms-flow-ai/actions)
